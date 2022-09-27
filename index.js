@@ -1,2 +1,1 @@
-const myName = document.querySelector(".name");
-myName.textContent = "Lê Trần Đức";
+document.getElementById("Name").textContent = "My Name: Lê Trần Đức";
